@@ -1,0 +1,25 @@
+[2023-03-17 06:53:35,603] wl01 debug test
+[2023-03-17 06:53:35,604] wl01 info test
+[2023-03-17 06:53:35,604] wl01 warning test
+[2023-03-17 06:53:35,604] wl01 error test
+[2023-03-17 06:53:35,604] wl01 critical test
+[2023-03-17 06:53:35,605] wl02 debug test
+[2023-03-17 06:53:35,605] wl02 info test
+[2023-03-17 06:53:35,605] wl02 warning test
+[2023-03-17 06:53:35,605] wl02 error test
+[2023-03-17 06:53:35,605] wl02 critical test
+[2023-03-17 06:53:35,606] wl03 debug test
+[2023-03-17 06:53:35,607] wl03 info test
+[2023-03-17 06:53:35,607] wl03 warning test
+[2023-03-17 06:53:35,607] wl03 error test
+[2023-03-17 06:53:35,607] wl03 critical test
+[2023-03-17 06:53:35,608] wl04 debug test
+[2023-03-17 06:53:35,608] wl04 info test
+[2023-03-17 06:53:35,609] wl04 warning test
+[2023-03-17 06:53:35,609] wl04 error test
+[2023-03-17 06:53:35,609] wl04 critical test
+2023-03-17 06:53:35,610 - DEBUG - wl05 debug test
+2023-03-17 06:53:35,610 - INFO - wl05 info test
+2023-03-17 06:53:35,610 - WARNING - wl05 warning test
+2023-03-17 06:53:35,610 - ERROR - wl05 error test
+2023-03-17 06:53:35,610 - CRITICAL - wl05 critical test
